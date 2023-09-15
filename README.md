@@ -5,7 +5,7 @@ On met nos questions
 
 ## questions tom :
 
-Quel sont les différences entre la mémoire a long terme et la mémoire de travail ?
+Quelles sont les différences entre la mémoire à long terme et la mémoire de travail ?
 
 Explique-moi le principe de répétition espacé par un schéma.
 
