@@ -1,1 +1,1 @@
-##Liste de taches fait pas qui, par quel temps totale et estimation du temp
+Liste de tâches : fait par qui, quel temps totale de réalisation et estimation du temps totale
