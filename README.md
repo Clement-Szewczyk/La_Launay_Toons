@@ -34,11 +34,10 @@ git clone https:/github.com/Clement-Szewczyk/La_launay_toonsgit
   Pour mettre à jour le dossier, vous pouvez utiliser les deux commandes suivantes: 
 
   `git pull`
-  `git fetch`
 
 ### Faire votre commit 
 
-  Dans un premier temps, vous devez ajouter les fichiers que vous créé/modifié avec la commande `git add "nom_du_fichier"`
+  Dans un premier temps, vous devez ajouter les fichiers que vous créé/modifié avec la commande `git add "nom_du_fichier"` ou pour tout ajouté d'un coup `git add . `
   Puis vous devez faire la commande qui va créer le commit : 
   `git commit -m "Nom_de_votre_commit"`
 
