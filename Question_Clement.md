@@ -75,7 +75,7 @@
 
     - git add 
     - git commit -m / git commit
-    - git pull
+    - git push
 
 5. A quoi sert une branche sur github ?
 
