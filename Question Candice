@@ -12,3 +12,20 @@
 
 5 | Comment être sure que notre connaissance est dans la mémoire long-terme ?
 -> Grâce aux auto-tests
+
+
+
+1 | Comment cloner un projet GitHub sur votre ordinateur ?
+-> Utilisez la commande "git clone [URL du projet]" dans le terminal
+
+2 | Comment synchronisez-vous vos commits locaux avec le dépôt distant sur GitHub ?
+-> Utilisez la commande "git pull" dans le terminal
+
+3 | Comment ajouté TOUTES vos modifications au commit ?
+-> Utilisez la commande "git add . " dans le terminal
+
+4 | Quelle commande vous permet de vérifier l'état des fichiers modifiés dans votre dépôt Git local ?
+-> Utilisez la commande "git status " dans le terminal
+
+5 | Qu'est-ce qu'une branche principale (main branch) dans un dépôt Git ?
+-> La branche principale est souvent la branche par défaut d'un dépôt Git, elle représente la version stable du projet. Elle est importante car c'est à partir d'elle que sont créées et fusionnées d'autres branches
